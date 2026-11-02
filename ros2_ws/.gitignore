@@ -1,0 +1,16 @@
+# ROS 2 generated directories
+build/
+install/
+log/
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
